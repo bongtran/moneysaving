@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="txt_money_saving">Tiết Kiệm Tiền</string>
+    <string name="txt_default_currency">đ</string>
+    <string name="txt_currency">Loại tiền:</string>
+    <string name="txt_saved">Bạn đã tiết kiệm:</string>
+    <string name="txt_this_month">Trong tháng này</string>
+    <string name="txt_continuous_saving">Tiết kiệm thêm:</string>
+    <string name="hint_amount">Khoảng:</string>
+    <string name="btn_save">Lưu</string>
+    <string name="hint_note">Ghi chú</string>
+    <string name="txt_calculate">Tính khoảng giảm giá</string>
+    <string name="txt_price">Giá</string>
+    <string name="txt_discount">Giảm giá</string>
+    <string name="btn_calculate">Tính</string>
+    <string name="hint_discount">Giảm giá %</string>
+    <string name="txt_choose_currency">Chọn loại tiền</string>
+</resources>

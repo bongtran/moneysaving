@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Money Saving</string>
+    <string name="txt_money_saving">Money Saving</string>
+    <string name="txt_default_currency">$</string>
+    <string name="txt_currency">Currency:</string>
+    <string name="txt_saved">Wow, you saved:</string>
+    <string name="txt_this_month">This month</string>
+    <string name="txt_continuous_saving">Continuous saving:</string>
+    <string name="hint_amount">Amount:</string>
+    <string name="btn_save">Save</string>
+    <string name="hint_note">Note</string>
+    <string name="txt_calculate">Calculate discount</string>
+    <string name="txt_price">Price</string>
+    <string name="txt_discount">Discount</string>
+    <string name="btn_calculate">Calculate</string>
+    <string name="hint_discount">Discount %</string>
+    <string name="txt_choose_currency">Choose Currency</string>
+</resources>
